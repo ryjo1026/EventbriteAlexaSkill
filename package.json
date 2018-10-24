@@ -1,0 +1,17 @@
+{
+  "name": "eventbrite-alexa-skill",
+  "version": "0.1.0",
+  "description": "An alexa skill for eventbrite events",
+  "main": "index.js",
+  "repository": "https://github.com/ryjo1026/EventbriteAlexaSkill.git",
+  "author": "Ryan Johnston <ryanpj@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.1.0",
+    "eslint": "^5.7.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
